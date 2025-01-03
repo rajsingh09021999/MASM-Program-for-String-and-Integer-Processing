@@ -1,8 +1,4 @@
 # MASM-Program-for-String-and-Integer-Processing
-### README: MASM Program for String and Integer Processing
-
----
-
 #### **Project Overview**
 
 This project is a MASM (Microsoft Macro Assembler) program that performs string processing and signed integer operations using macros and procedures. The program leverages Irvine's library for input and output and implements fundamental operations like reading and displaying strings, validating numeric input, and processing integers.
